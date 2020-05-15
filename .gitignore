@@ -1,0 +1,11 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+node_modules/
+.idea/
+/Umbraco.uSync.Web/umbraco/
+/Umbraco.uSync.Web/App_Data/
+/Umbraco.uSync.Web/dist/css/*.css
+/Umbraco.uSync.Web/dist/js/*.js
